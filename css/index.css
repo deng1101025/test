@@ -1,0 +1,21 @@
+div.nav {
+	clear: both;
+    width: 100%;
+    height: 45px;
+    line-height: 45px;
+    background: #0075bb;
+    position: relative;
+}
+ul.title {
+	margin: 0 auto;
+    width: 1200px;
+    text-align: center;
+	/*width: 600px;*/
+}
+ul.title li{
+	display: inline;
+}
+
+ul.title li a{
+	color: #FFFFFF;
+}
